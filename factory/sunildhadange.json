@@ -1,0 +1,9 @@
+{
+	"name": "sunildhadange",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21b6afee-5f96-46f9-8e63-d4345da8b833",
+		"tenantId": "887eef90-61a8-4854-8379-bda69901282f"
+	}
+}
